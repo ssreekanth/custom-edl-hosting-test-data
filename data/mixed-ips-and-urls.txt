@@ -1,7 +1,7 @@
-*.zoom.us/            # user_id=pan_user_1 ; incident_id=inc123
-*.zoomapp.cloud/      # user_id=fawkes_user_2 ; incident_id=inc456
-zoom.us/
-zoomapp.cloud/
+*.zoom.us            # user_id=pan_user_1 ; incident_id=inc123
+*.zoomapp.cloud      # user_id=fawkes_user_2 ; incident_id=inc456
+zoom.us
+zoomapp.cloud
 13.249.251.242/32
 13.249.254.243/32
 15.220.80.0/24
