@@ -14,4 +14,3 @@ zoomapp.cloud
 2.2.2.2
 www.google.com
 www.yahoo.com
-3.3.3.3
